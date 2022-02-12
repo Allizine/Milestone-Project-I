@@ -1,3 +1,4 @@
-import deck from "cards.js"
+// Import deck
+import deck from "./cards.js"
 
-const deck = new deck
+const deck = new deck()

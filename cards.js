@@ -1,3 +1,4 @@
+// Arrays to hold values
 const suits = ["♣","♦", "♥", "♠"]
 const values = ["A", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "K"]
 
@@ -9,25 +10,24 @@ export default class deck {
     get numberOfCards() {
         return cards.length;
     }
-
+// randomize the deck
     shuffle() {
         for (let i  = this.numberOfCards - 1; i > 0; i--) {
             const  newIndex = math.floor(math.random() * (i + 1))
             const oldValue = this.card[newIndex]
             this.cards[newIndex] = this.card[i]
             this.cards[i] = oldValue
+        }
     }
 }
-}
-
-
+// Builds the card
 class card {
     constructor(suit, value) {
         this.suit = suit;
         this.value = value;
     }
 }
-
+// Generates the deck
 function generateDeck() {
     return suits.flatmap(suits => {
         return values.map(values =>{
