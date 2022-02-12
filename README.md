@@ -15,6 +15,13 @@ If the cards are the same, each player turns up one card face down or face down,
 > The game ends one player has won all the cards.
 
 
+Implementing : 
+Develop a script to actively randomize the player's draw.
+Manipulate the DOM to display a card when it's time to flip one.
+Script to compare the cards and determine the winner of each active draw and depelete the total amount of cards so it doesn't go on forever.
+
+
+
 ### 🏠 [Homepage](https://github.com/Soullessly/Milestone-Project-I)
 
 ## Author
