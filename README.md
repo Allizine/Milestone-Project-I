@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.2-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> A Card game using learned skills to show ability to understand and produce a product.
+> A Card game using learned skills to show comprehension of learned functions
 
 ### 🏠 [Homepage](https://github.com/Soullessly/Milestone-Project-I)
 
