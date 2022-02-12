@@ -1,16 +1,20 @@
-Milestone Project One | HTML, CSS, + Javascript | JavaScript
+<h1 align="center">Welcome to Milestone Project | War Card Game 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.2-blue.svg?cacheSeconds=2592000" />
+</p>
 
+> A Card game using learned skills to show ability to understand and produce a product.
 
-// GRADED ON BELOW
--- UX
--- Functionality
--- Workflow
--- Code Style
--- Presentation
+### 🏠 [Homepage](https://github.com/Soullessly/Milestone-Project-I)
 
+## Author
 
-Max Score - 25 
-- Minimum - 15
+👤 **Alexander Barthel**
 
+* Github: [@Soullessly](https://github.com/Soullessly)
 
-// Blackjack
+## Show your support
+
+Give a ⭐️ if this project taught you something!
+
+***
