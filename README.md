@@ -12,7 +12,7 @@ Each player turns up a card at the same time, and the higher card takes both dra
 If the cards are the same, each player turns up one card face down or face down, higher card takes both.
 
 <h2 align="center">How to score</h2>
-> The game ends one player has won all the cards.
+The game ends when one player has won all the cards.
 
 <h2 align="center">Implementing</h2>
 Develop a script to actively randomize the player's draw.
