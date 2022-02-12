@@ -6,8 +6,10 @@
 > A Card game using learned skills to show comprehension of HTML, CSS and Javascript.
 
 <h2 align="center">How To Play</h2>
-> Each player turns up a card at the same time, and the higher card takes both.
-> If the cards are the same, each player turns up one card face down or face down, higher card takes both.
+The deck is divided evenly, with each player recieving 26 cards, dealt all at once, face down.
+
+Each player turns up a card at the same time, and the higher card takes both draws.
+If the cards are the same, each player turns up one card face down or face down, higher card takes both.
 
 <h2 align="center">How to score</h2>
 > The game ends one player has won all the cards.
