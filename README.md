@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.2-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> A Card game using learned skills to show comprehension of taught languages over the last few sections
+> A Card game using learned skills to show comprehension of HTML, CSS and Javascript.
 
 ### 🏠 [Homepage](https://github.com/Soullessly/Milestone-Project-I)
 
