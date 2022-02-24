@@ -7,7 +7,7 @@
     display: grid;
     grid-template-columns: repeat(2, 8rem);
     grid-template-rows: 13rem 5rem 13rem;
-    gap: .5rem;
+    gap: 1rem;
     cursor: pointer;
     justify-content: center;
     padding-top: 1rem;
@@ -20,9 +20,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 3rem;
+    font-size: 2.5rem;
     border-radius: .5rem;
-    color: white;
+    color: black;
     user-select: none;
   }
   
