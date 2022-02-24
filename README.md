@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Milestone Project | War Card Game 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.2-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.6-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > A Card game using learned skills to show comprehension of HTML, CSS and Javascript.
