@@ -5,8 +5,8 @@
   body {
     margin: 0;
     display: grid;
-    grid-template-columns: repeat(2, 4rem);
-    grid-template-rows: 7rem 2rem 7rem;
+    grid-template-columns: repeat(2, 8rem);
+    grid-template-rows: 13rem 5rem 13rem;
     gap: .5rem;
     cursor: pointer;
     justify-content: center;
@@ -31,7 +31,7 @@
   }
   
   .player-deck {
-    background-color: blue;
+    background-color: orange;
   }
   
   .text {
